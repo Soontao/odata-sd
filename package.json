@@ -24,7 +24,7 @@
     "@odata/server": "^0.2.26",
     "express": "^4.17.1",
     "express-basic-auth": "^1.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "sql.js": "^1.3.0",
     "tslib": "^2.0.0"
   },
